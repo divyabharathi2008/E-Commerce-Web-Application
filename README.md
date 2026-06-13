@@ -53,6 +53,4 @@ Completed:
 - Basic UI Design
 
 Author
-
 Divyabharathi R
-B.E. Computer Science and Engineering
